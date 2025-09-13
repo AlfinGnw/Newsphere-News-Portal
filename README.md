@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Email**: support@newsphere.com
+- **Email**: alfingunawan003.com
 - **Issues**: [GitHub Issues](https://github.com/AlfinGnw/Newsphere-News-Portal/issues)
 - **Documentation**: [GitHub Wiki](https://github.com/AlfinGnw/Newsphere-News-Portal/wiki)
 
