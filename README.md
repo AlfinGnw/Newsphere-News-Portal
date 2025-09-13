@@ -1,8 +1,8 @@
 # Newsphere - Portal Berita Terpercaya
 
 [![GitHub](https://img.shields.io/badge/GitHub-Newsphere--News--Portal-blue?style=flat-square&logo=github)](https://github.com/AlfinGnw/Newsphere-News-Portal)
-[![Laravel](https://img.shields.io/badge/Laravel-11-red?style=flat-square&logo=laravel)](https://laravel.com)
-[![Filament](https://img.shields.io/badge/Filament-3-orange?style=flat-square)](https://filamentphp.com)
+[![Laravel](https://img.shields.io/badge/Laravel-12-red?style=flat-square&logo=laravel)](https://laravel.com)
+[![Filament](https://img.shields.io/badge/Filament-4-orange?style=flat-square)](https://filamentphp.com)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)
 
 Portal berita modern yang dibangun dengan Laravel dan Filament Admin Panel untuk manajemen konten berita yang efisien.
@@ -20,10 +20,10 @@ cd Newsphere-News-Portal
 ```
 
 ### Prerequisites
-- PHP 8.1+
+- PHP 8.4+
 - Composer
 - Node.js 16+
-- MySQL 8.0+ atau SQLite
+- MySQL 8.4+ atau SQLite
 
 ### Installation
 
